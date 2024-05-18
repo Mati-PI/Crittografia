@@ -1,10 +1,11 @@
 # Esame di Matematica per il design
   
 Presentazione ricerca: "Crittografia" di Matilde Parisi  
-ISIA U       
+Corso: Matematica per il Design  
+ISIA Urbino       
 A. A. 2023/2024
 
-[crittografia.pdf](crittografia.pdf)
+[ricerca_MaDe_24.pdf](ricerca_MaDe_24.pdf)
 
 
 
